@@ -8,3 +8,11 @@ Created by <b>Tejashri Kalbhor.</b>
 <b>Skill Set:
 <ol>
 <li>C</li>
+<li>C++</li>
+<li>Java</li>
+<li>Java Script</li>
+<li>Node JS</li>
+<li>Git</li>
+<li>Postman</li>
+</ol>
+
